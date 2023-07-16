@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pc/Documents/Unreal Projects/IntroProject/CryptRaider/CryptRaider/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/IntroProject/CryptRaider/CryptRaider/Content/Dungeon.umap"
+			]
+		}
+	]
+}
